@@ -4,10 +4,10 @@ Sou um desenvolvedor apaixonado por tecnologia com foco em **Backend**. Meu obje
 
 ## 🎓 Sobre Mim
 
-- 💻 Formado em **Análise e Desenvolvimento de Sistemas** pela Universidade Bras Cubas.
+- 💻 Formado em **Análise e Desenvolvimento de Sistemas** pela Universidade Braz Cubas.
 - 📚 Especializações em **Big Data e Business Intelligence**, **Gestão Financeira e Logística**, e **Data Science e Inteligência Artificial**.
 - 🚀 Atualmente aprofundando meus conhecimentos e desenvolvendo projetos em arquiteturas de backend e integrações de sistemas.
-- 📫 Como falar comigo: **https://www.linkedin.com/in/juniorf**
+- 📫 Como falar comigo: [LinkedIn](https://www.linkedin.com/in/juniorf)
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -27,7 +27,7 @@ Aqui estão as principais tecnologias que utilizo no meu dia a dia para o desenv
 
 ## 📊 Estatísticas do GitHub
 
-<<p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=juniorf88&show_icons=true&theme=dracula&hide_border=true" alt="Estatísticas do GitHub" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorf88&layout=compact&theme=dracula&hide_border=true" alt="Linguagens Mais Utilizadas" height="150"/>
 </p>
