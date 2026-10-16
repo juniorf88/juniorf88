@@ -28,8 +28,8 @@ Aqui estão as principais tecnologias que utilizo no meu dia a dia para o desenv
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juniorf88&show_icons=true&theme=dracula&hide_border=true" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorf88&layout=compact&theme=dracula&hide_border=true" alt="Linguagens Mais Utilizadas" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=juniorf88&show_icons=true&theme=github_dark&hide_border=true" alt="Estatísticas do GitHub" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorf88&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens Mais Utilizadas" height="150"/>
 </p>
 
 ---
